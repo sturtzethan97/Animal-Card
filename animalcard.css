@@ -1,0 +1,51 @@
+html {
+	background:#fff;
+}
+
+body {
+	margin: auto;
+	width:50%;
+}
+
+ul {
+	list-style-type:none;
+	margin-right:5%;
+}
+.withinCard {
+	width:300px;
+	margin-left:3%;
+}
+h1 {
+	margin-left:25%;
+}
+.top {
+	padding-left:10px;
+	padding-right:22px;
+	width:305px;
+	height:690px;
+	background-color:navy;
+	border-radius:5px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.76);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.76);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.76);
+}
+img {
+	margin-right:5%;
+	width:300px;
+	height:200px;
+}
+.bottom {
+	width:305px;
+	height:400px;
+	background-color:blue;
+	margin-left:2%;
+	border-radius:5px;
+}
+p {
+	margin-right:10%;
+
+}
+.fact {
+	margin-left:10%;
+	font-family:helvetica;
+}
